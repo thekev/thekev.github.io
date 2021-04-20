@@ -1,9 +1,7 @@
 ---
 layout: default
 ---
-# ClueDept
-
-Technology consulting services since 1999.
+# Technology consulting services since 1999.
 
 Specialties
 -----------

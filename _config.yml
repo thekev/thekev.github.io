@@ -14,10 +14,10 @@ theme: jekyll-theme-cayman
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
+title: Clue Department
+email: kevin@cluedept.com
 description: >- # this means to ignore newlines until "baseurl:"
-  ClueDept Consulting
+  Technology Consulting
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://cluedept.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: _thekev
