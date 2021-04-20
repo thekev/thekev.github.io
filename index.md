@@ -14,7 +14,7 @@ Specialties
 * Network Engineering
   * Traffic Engineering and Fault Tolerance
   * MPLS and IPv6 Migration
-  * Ubiquiti, Cisco, Juniper, VyOS, Custom Solutions
+  * Ubiquiti, Cisco, Juniper, MikroTik, VyOS, Custom Solutions
   * Physical Plant
 * Systems Engineering
   * Distributed Systems
@@ -22,11 +22,10 @@ Specialties
   * KVM and LXC
 * RF Engineering
   * Fixed Wireless
-  * Amateur Radio
+  * Land Mobile
 * Home Automation
-  * OpenHAB
-  * Zwave
-  * Zigbee (Hue, Sunricher, Samsung)
+  * Integration and Monitoring
+  * OpenHAB, Zwave, Zigbee
   * Power Monitoring
   * A/V Integration
 
