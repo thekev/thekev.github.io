@@ -3,6 +3,8 @@ layout: default
 ---
 # Technology consulting services since 1999.
 
+Experience. Innovation. Trust.
+
 Specialties
 -----------
 
